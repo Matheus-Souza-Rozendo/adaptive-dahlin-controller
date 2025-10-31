@@ -7,7 +7,7 @@
 
 The main goal is to compare the performance of a fixed-parameter controller versus a controller that uses **Recursive Least Squares (RLS)** estimation to adapt online to the plant parameters.
 
-## Main Concepts and Demonstrated Skills
+## Main Concepts
 
 This project is a complete end-to-end practical demonstration of a control system — from theoretical modeling to hardware implementation.
 
@@ -114,7 +114,7 @@ The Traditional Dahlin controller is smoother but shows a larger overshoot in th
 * **adaptative_Controller_Dahlin.m** – Simulation script for the **Adaptive Dahlin Controller** with RLS  
 * `/pratic_test` – Contains scripts and `.mat` data files for the practical Arduino implementation  
 
-## 🚀 How to Run
+## How to Run
 
 ### Simulation
 
